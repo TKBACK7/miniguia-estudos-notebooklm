@@ -182,5 +182,5 @@ Os objetivos do MCMV evoluíram ao longo das fases do programa (2009, 2011 e a r
 
 **Dica para a apresentação:** Comece definindo se a política é redistributiva ou distributiva (isso agrada muito em disciplinas de Administração Pública) e encerre enfatizando que o programa não serve apenas para "dar casas", mas também para **girar a economia e gerar empregos**.
 
-
+PROMPT Reutilizável para criação de resumos no NotebookLM: Você é um [Filósofo/engenheiro/professor/etc...] e especialista em [de acordo com o assunto], preciso que você crie um resumo estruturado de no máximo 4000 caracteres para que eu possa estudar para o meu seminário de [disciplina], o resumo deve ser escrito conforme as normas da ABNT. Evite jargões técnicos, foque apenas nos conteúdos disponibilizados nas fontes. 
 
