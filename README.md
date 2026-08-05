@@ -11,6 +11,27 @@ https://www.gov.br/planejamento/pt-br/acesso-a-informacao/participacao-social/co
 
 https://repositorio.enap.gov.br/bitstream/1/3498/1/Elisa%20de%20Figueiredo%20Lima.pdf
 
+# Glossário do estudo no Notebook
+
+## O assunto estudado
+* **MCMV:** O Programa Minha Casa Minha Vida
+
+## Antes
+* **Antes de iniciar:** Antes de iniciar a conversa coloquei todas as fontes necessárias nele
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Antes de iniciar a conversa coloquei todas as fontes necessárias nele, e após ele enviar a compreensão das fontes utilizadas, enviei o prompt "Irei apresentar um trabalho para a disciplina de Administração Pública sobre o programa Minha casa Minha vida, Fiquei responsável por apresentar sobre Tipo de política e objetivos, apresentação na minha parte tem que ter duração de 5 minutos no máximo"
 
 Como ele já possuia o material do seminário e as fontes sobre o programa minha casa minha vida (que eu pedi para ele pesquisar) e também tinha a ciência de que não era para prolongar pois se tratava apenas de 5 minutos, então ele me entregou a seguinte resposta: 
