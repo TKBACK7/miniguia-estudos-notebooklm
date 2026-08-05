@@ -19,6 +19,15 @@ https://repositorio.enap.gov.br/bitstream/1/3498/1/Elisa%20de%20Figueiredo%20Lim
 ## Antes
 * **Antes de iniciar:** Antes de iniciar a conversa coloquei todas as fontes necessárias nele
 
+## Após o resumo
+* **Prompt para slide:** Após esse ótimo resumo pedi para ele criar o slide do assunto
+
+## Refinamento do prompt do slide
+* **Após o resumo:** Refinei o prompt para o slide para que ele entendesse minha solicitação
+
+## Resultado final
+* **Resultado Final:** Resumo final para a minha apresentação estruturado e perfeito
+
 
 
 
